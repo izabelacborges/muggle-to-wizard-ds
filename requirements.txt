@@ -1,0 +1,12 @@
+jupyterlab==0.33.12
+matplotlib==2.2.3
+nltk==3.4
+numpy==1.15.4
+pandas==0.23.4
+plotnine==0.4.0
+pylint==1.9.3
+requests==2.20.1
+scikit-learn==0.20.1
+scipy==1.1.0
+spacy==2.0.16
+statsmodels==0.9.0
